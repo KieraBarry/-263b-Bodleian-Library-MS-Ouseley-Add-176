@@ -1,13 +1,13 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Cite This",
-    "zoom":1,
-    "image":"",
+    "chapter":"Chapter 1: The Folio",
+    "zoom":0,
+    "image":"Bodleian-Library-MS-Ouseley-Add-176_00536_fol-263b.jpg",
     "source-credit":"Source: Library of Congress",
-    "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"<LAST NAME>, <FIRST NAME> or ARTH 370 Student (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). “Ibrahim Sultan hunting” In Ibrahim Sultan's Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
-    "geometry":{"type":"Point","coordinates":[0,0]}},
+    "source-link":"https://doi.org/10.1080/00210862.2015.1023063",
+    "description":"\"This image illustrates the scene from the Shahnama, a long epic poem written by Ferdowsi. The Shahnama originated in Iran around 1000 AD; its subjects contain Persian mythology and the history of Iran up to the Islamic conquest of Greater Iran during the 7th Century. The Shahnama is an epic poem of Persian literature, a poetry of action that reflects a court-centered society, while closely connecting to particular people and incorporating their history ideals and values (Lewis, 2015). This image is part of the many stages of Isfandiyar, specifically depicting ‘The Fifth Stage’ also known as ‘Isfandyar Slews the Simurgh’. The scene being depicted in the image is of two important characters in the Shahnama, the Simurgh and Isfandyar.The imagery uses an extensive selection of bright colors. At first glance, the two characters, Isfandyar, the man, and the Simurgh, the large and colorful winged-creature, seem to be at odds with one another. The stance of the man, Isfandyar, shows him raising his sword and in a position to fight and defend himself from the Simurgh. The Simurgh is in flight, the wings are spread and the head is turned to face Isfandyar. The two characters battle between one another. There is no background behind them making their interaction the main focus.
+    "geometry":{"type":"Point","coordinates":[3540,5090]}},
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Introduction",
